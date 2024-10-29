@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+   width: 85%;
+   border: 1px solid black;
+   padding: 10px;
+   margin: 20px 120px 40px;
+}
+th{
+width: 300px;
+border:  1px solid black;
+padding: 10px;
+}
